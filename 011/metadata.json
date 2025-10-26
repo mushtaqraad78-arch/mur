@@ -1,0 +1,7 @@
+{
+  "name": "Anbar Traffic Directorate",
+  "description": "A comprehensive dashboard for managing traffic violations, reports, and statistics for the Anbar Governorate Traffic Directorate.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
